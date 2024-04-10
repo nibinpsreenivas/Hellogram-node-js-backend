@@ -1,4 +1,4 @@
-# BACKEND - SOCIAL FRAVE
+# BACKEND - hellogram
 
 ## NodeJs - Typescript - Mysql - Socket io
 
@@ -23,19 +23,7 @@
     npm start
 ```
 
-### Delete  the Dist folder
-
-```sh
-    npm run clean
-```
-
-### Environment variables
-
-- PORT
-- TOKEN_SECRET
-
----
 
 ## App Flutter
 
-- https://github.com/Frave07/Flutter-Social-Media-App
+- https://github.com/nibinpsreenivas/Hellogram_Node-js
