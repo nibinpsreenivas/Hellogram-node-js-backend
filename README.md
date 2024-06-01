@@ -1,4 +1,4 @@
-# BACKEND - hellogram
+# BACKEND - Hellogram
 
 ## NodeJs - Typescript - Mysql - Socket io
 
